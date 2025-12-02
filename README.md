@@ -6,6 +6,8 @@ bleh is my passion project and a take on a full [Last.fm](https://last.fm) redes
 
 ## Support
 
+FEOOO
+
 If you feel my work on this and my other Last.fm projects is worthy of donations, you are welcome to sponsor me on GitHub. This is, of course, optional, and bleh will forever be open-source and free. Sponsors get a sweet profile badge.
 
 ## Development
