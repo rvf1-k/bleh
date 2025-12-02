@@ -282,9 +282,7 @@ function ignore_update() {
 }
 
 export function start_update() {
-    open(
-        `https://github.com/katelyynn/bleh/refs/heads/${settings.branch ? settings.branch : 'uwu'}/fm/bleh.user.js`
-    );
+    open(`https://github.com/katelyynn/bleh/raw/refs/heads/uwu/fm/bleh.user.js?${Math.random()}`);
 
     dialog({
         id: 'bleh_update',
